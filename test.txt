@@ -1,0 +1,4 @@
+this is a test
+this is the second line in this test
+“I’m adding quotes”
+How about a new line \n character
